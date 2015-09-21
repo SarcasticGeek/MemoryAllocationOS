@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Visual Studio 2012\Projects\MemoryOS\MemoryOS\obj\Debug\MemoryOS.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\MemoryOS\MemoryOS\obj\Debug\MemoryOS.Form1.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\MemoryOS\MemoryOS\obj\Debug\MemoryOS.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\MemoryOS\MemoryOS\obj\Debug\MemoryOS.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\MemoryOS\MemoryOS\obj\Debug\MemoryOS.Form2.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\MemoryOS\MemoryOS\obj\Debug\MemoryOS.Form3.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\MemoryOS\MemoryOS\bin\Debug\Memory Allocator.exe.config
+C:\Users\user\Documents\Visual Studio 2012\Projects\MemoryOS\MemoryOS\bin\Debug\Memory Allocator.exe.manifest
+C:\Users\user\Documents\Visual Studio 2012\Projects\MemoryOS\MemoryOS\bin\Debug\Memory Allocator.application
+C:\Users\user\Documents\Visual Studio 2012\Projects\MemoryOS\MemoryOS\bin\Debug\Memory Allocator.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\MemoryOS\MemoryOS\bin\Debug\Memory Allocator.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\MemoryOS\MemoryOS\obj\Debug\Memory Allocator.exe.manifest
+C:\Users\user\Documents\Visual Studio 2012\Projects\MemoryOS\MemoryOS\obj\Debug\Memory Allocator.application
+C:\Users\user\Documents\Visual Studio 2012\Projects\MemoryOS\MemoryOS\obj\Debug\Memory Allocator.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\MemoryOS\MemoryOS\obj\Debug\Memory Allocator.pdb
